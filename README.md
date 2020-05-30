@@ -3,6 +3,7 @@
 This repo contains an anlalysis of brainsize and intelligence. All of the relevant files can be found in the `practical` folder. 
 The data used in this anlaysis can be found in `brainsize.csv`
 The code and anlysis can be found in `myanlysis.ipynb` [here](https://github.com/Alex-A14/Albury-A-QLSC612/blob/master/practical/myanalysis.ipynb)
+
 Or you can view an html [here](https://htmlpreview.github.io/?https://github.com/Alex-A14/Albury-A-QLSC612/blob/master/practical/myanalysis.html)
 
 A description of the full build environment is provided in `requirements.txt` However, the analysis primarily relies on `numpy` `pandas` `matplotlib` and `statsmodels`
